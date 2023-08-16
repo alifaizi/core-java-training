@@ -1,0 +1,25 @@
+package com.java.project1.package1;
+
+public class ClassA {
+	
+	// Variables: Containers that hold data temporarily 
+	
+	/*
+	 * Types of Variables:
+	 * 1 - Global/Instance Variable - Inside class but outside method. We need object to access
+	 * 2 - Static Variables - Used with static keyword inside the class. We do not need to Object to access the value
+	 * 3 - Local Variables - Inside Methods. We need object to access 
+	 */
+	
+	public int age = 20;
+	
+	// Access modifier is public - means it can be accessed from anywhere
+	
+	public static void main(String[] args) {
+		
+		ClassA obj = new ClassA();
+		
+		System.out.println(obj.age);
+	}
+
+}

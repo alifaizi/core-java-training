@@ -8,3 +8,13 @@
 1691703208842	Copy compilation units
 1691703210592	Copy compilation units
 1691703302103	Copy packages
+1691719666064	Rename compilation unit 'ClassA.java'
+1691719955480	Rename type 'ClassC'
+1691719986909	Rename type 'ClassA'
+1691720225464	Rename type 'ClassB'
+1691722371331	Rename type 'ClassA'
+1691722536268	Rename type 'ClassB'
+1691805719751	Rename type 'ClassE'
+1691808418973	Rename type 'ClassF'
+1691808458079	Rename type 'Employee'
+1691810777271	Rename type 'ClassA'
