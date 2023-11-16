@@ -1,4 +1,4 @@
-package com.collection.practice;
+package com.Interface.practice;
 
 public class Reptiles implements ZooAnimals {
 	
